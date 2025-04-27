@@ -1,16 +1,16 @@
-## Hi there 👋
+# Astrogen AI
 
-<!--
-**AstrogenAI/AstrogenAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Astrogen AI is a modular, multi-agent system designed to help users brainstorm ideas, summarize information, and develop action plans using AI assistance.
 
-Here are some ideas to get you started:
+### Key Features
+- Multi-agent architecture: Thinker, Summarizer, and Planner.
+- Easy local storage with SQLite.
+- OpenAI-powered intelligence.
+- Designed for creativity and productivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Installation
+
+```bash
+git clone https://github.com/your-username/astrogen-ai.git
+cd astrogen-ai
+pip install -r requirements.txt
