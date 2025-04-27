@@ -1,4 +1,7 @@
-![image](https://github.com/user-attachments/assets/22242fcf-11af-46ab-9388-d0e313800df4)# 🚀 Astrogen AI
+##🚀 Astrogen AI
+
+![image](https://github.com/user-attachments/assets/22242fcf-11af-46ab-9388-d0e313800df4)
+
 
 [![image](https://i.imgur.com/lfhU8As.png)
 
@@ -68,11 +71,19 @@ astrogen
 astrogen-sol
 
 astrogen-ai
+
 ai
+
 ai-bot
+
 astro-gen-ai
+
 astro
+
 astrogenai-sol
+
 astrogen-solana
+
 solana
+
 crypto
