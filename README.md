@@ -2,7 +2,7 @@
 
 ![image](https://i.imgur.com/lfhU8As.png)
 
-# **[TWITTER](https://x.com/AstroGenAI)** # **[TWITTER](https://x.com/AstroGenAI)** # **[TWITTER](https://x.com/AstroGenAI)**
+# **[TWITTER](https://x.com/AstroGenAI)** #**[TWITTER](https://x.com/AstroGenAI)** #**[TWITTER](https://x.com/AstroGenAI)**
 
 
 ## 📜 Description
