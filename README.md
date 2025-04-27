@@ -1,4 +1,4 @@
-# Astrogen AI
+🚀 Astrogen AI
 
 Astrogen AI Token (ASTROGEN) powers a decentralized, AI-driven ecosystem built to support creativity, innovation, and collaboration. It acts as a bridge between artificial intelligence agents and human creators, enabling new models of value exchange, knowledge contribution, and intellectual development.
 
@@ -6,15 +6,36 @@ Designed for thinkers, developers, researchers, and artists, Astrogen AI creates
 
 
 
-### Key Features
-- Multi-agent architecture: Thinker, Summarizer, and Planner.
-- Easy local storage with SQLite.
-- OpenAI-powered intelligence.
-- Designed for creativity and productivity.
+🌟 Key Features
+✅ Multi-agent architecture — Thinker, Summarizer, Planner.
+✅ OpenAI-powered intelligence — Smart idea generation and summaries.
+✅ SQLite local storage — Lightweight and fast.
+✅ Easy modular expansion — Add your own agents anytime.
 
-## Installation
+astrogen-ai/
+├── agents/
+├── core/
+├── data/
+├── utils/
+├── main.py
+├── README.md
+├── requirements.txt
+├── .gitignore
 
-```bash
+⚙️ Installation
 git clone https://github.com/your-username/astrogen-ai.git
 cd astrogen-ai
 pip install -r requirements.txt
+
+🔮 Future Roadmap
+
+ Core multi-agent architecture
+
+ Collaborative agent ecosystems
+
+ Web3 decentralized deployment
+
+ AI-driven DAO governance model
+
+ Mobile & Web interfaces
+
