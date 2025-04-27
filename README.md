@@ -1,4 +1,4 @@
-#🚀 Astrogen AI
+# 🚀 **Astrogen AI**
 
 [![image](https://i.imgur.com/lfhU8As.png)
 
