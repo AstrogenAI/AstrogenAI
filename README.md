@@ -64,7 +64,9 @@ Participate in decentralized governance to shape the evolution of Astrogen AI.
 ### 🔑 Keywords
 
 astrogen
+
 astrogen-sol
+
 astrogen-ai
 ai
 ai-bot
