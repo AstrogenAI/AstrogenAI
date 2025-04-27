@@ -1,7 +1,4 @@
-**🚀 Astrogen AI**
-
-![image](https://github.com/user-attachments/assets/22242fcf-11af-46ab-9388-d0e313800df4)
-
+#🚀 Astrogen AI
 
 [![image](https://i.imgur.com/lfhU8As.png)
 
